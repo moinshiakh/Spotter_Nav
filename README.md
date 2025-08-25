@@ -1,4 +1,4 @@
-potter.ai Navigation Bar Redesign
+Spotter.ai Navigation Bar Redesign
 Project Overview
 This project is a complete redesign of the spotter.ai navigation bar, transforming it from a mobile-first burger menu to a sleek, modern inline navigation system optimized for desktop users. The redesign focuses on improved user experience, modern aesthetics, and seamless functionality.
 
